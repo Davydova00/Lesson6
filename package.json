@@ -1,0 +1,11 @@
+{
+  "name": "lesson6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script1.js",
+  "scripts": {
+    "start": "script-leet_code.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
